@@ -11,7 +11,7 @@ Download the latest mieru windows client from here:
 https://github.com/enfein/mieru/releases  
 rename the executable to mieru.exe  
 
-rsrc.exe can be used to set app icon you can download the latest version from here:  
+rsrc.exe can be used to set app icon. You can download the latest version from here:  
 https://github.com/akavel/rsrc/releases  
 rename the executable to rsrc.exe  
 
