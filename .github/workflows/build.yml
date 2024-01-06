@@ -1,4 +1,4 @@
-name: Build Go Program
+name: Build and Test Go Program
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
@@ -19,7 +19,7 @@ jobs:
         go-version: 1.17
 
     - name: Build
-      run: go build -v ./...
+      run: go build -o trayapp.exe -ldflags="-H=windowsgui" -v ./...
 
     - name: Test
       run: go test -v ./...
