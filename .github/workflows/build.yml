@@ -1,9 +1,9 @@
 name: Build and Test Go Program
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    paths:
+      - '**/*'
 
 jobs:
   build:
