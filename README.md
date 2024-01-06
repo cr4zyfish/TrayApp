@@ -1,5 +1,5 @@
 # TrayApp
-Windown Tray App for mieru
+Windows Tray App for mieru
 
 # User Guide
 Copy and paste your mieru client config file to config.json
