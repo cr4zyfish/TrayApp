@@ -18,3 +18,4 @@ rename the executable to rsrc.exe
 To set your own tray icon, rename your .ico file to icon.ico and place it in directory.  
 You can set the app icon by running this command:  
 rsrc -manifest main.manifest -ico icon.ico  
+
