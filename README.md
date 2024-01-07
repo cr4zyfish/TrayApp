@@ -5,6 +5,9 @@ Windows Tray App for mieru
 Copy and paste your mieru client config file to config.json  
 Run trayapp.exe  
 You can exit the app by right clicking the icon on windows tray and clicking on exit.  
+  
+Adding program to windows startup: Create a shortcut and copy it to this directory:  
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp  
 
 # Using with the latest versions and setting icon
 Download the latest mieru windows client from here:  
