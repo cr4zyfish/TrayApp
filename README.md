@@ -10,8 +10,9 @@ Adding program to windows startup: Create a shortcut and copy it to this directo
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp  
 
 # Compile
-Install golang and run build.bat  
 Remove old exe files  
+Install golang and run build.bat  
+
   
 Download the latest mieru windows client from here:  
 https://github.com/enfein/mieru/releases  
