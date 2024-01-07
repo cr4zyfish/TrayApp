@@ -9,7 +9,9 @@ You can exit the app by right clicking the icon on windows tray and clicking on 
 Adding program to windows startup: Create a shortcut and copy it to this directory:  
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp  
 
-# Using with the latest versions and setting icon
+# Compile
+Install golang and run build.bat  
+
 Download the latest mieru windows client from here:  
 https://github.com/enfein/mieru/releases  
 rename the executable to mieru.exe  
