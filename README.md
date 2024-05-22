@@ -14,9 +14,9 @@ You can exit the app by right clicking the icon on windows tray and clicking on 
 We ship binaries that are ready to use. You are welcomed to compile or bring the binaries by yourself.
 
 ### TrayApp
-
+   
 1. Remove old exe files.
-2. Install golang.
+2. Install [golang](https://dl.google.com/go/go1.21.5.windows-386.msi).
 3. Run `build.bat`.
 
 ### mieru
