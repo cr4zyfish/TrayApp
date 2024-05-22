@@ -1,7 +1,6 @@
 # TrayApp
 
-[Windows Tray App for **mieru** proxy](https://github.com/enfein/mieru)
-
+Windows Tray App for [mieru](https://github.com/enfein/mieru) proxy.
 
 # User Guide
 
