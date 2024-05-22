@@ -5,15 +5,9 @@ Windows Tray App for mieru proxy.
 # User Guide
 
 1. Copy and paste your mieru client config file to `config.json` in this directory.
-2. Double click to run `trayapp.exe`.
+2. Double click to run `TrayApp.exe`.
 
 You can exit the app by right clicking the icon on windows tray and clicking on exit.
-
-To add the program to windows startup, create a shortcut and copy it to this directory:
-
-```
-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
-```
 
 # Compile
 
@@ -30,17 +24,8 @@ We ship binaries that are ready to use. You are welcomed to compile or bring the
 1. Download the latest mieru windows client from https://github.com/enfein/mieru/releases.
 2. Rename the executable to `mieru.exe`.
 
-### rsrc
+### App Icon
 
-`rsrc.exe` is used to set app icon.
+To set your own App icon, place your icon.png file in this directory.
+To set your own Tray icon, convert you .ico file to base64 and replace it with old icon in the source code.
 
-1. Download the latest version from https://github.com/akavel/rsrc/releases.
-2. Rename the executable to `rsrc.exe`.
-
-To set your own tray icon, rename your .ico file to `icon.ico` and place it in this directory.
-
-You can set the app icon by running this command:
-
-```
-rsrc -manifest main.manifest -ico icon.ico
-```
