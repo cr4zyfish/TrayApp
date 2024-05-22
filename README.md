@@ -1,6 +1,7 @@
 # TrayApp
 
 Windows Tray App for [mieru](https://github.com/enfein/mieru) proxy.  
+
 [Download latest release.](https://github.com/cr4zyfish/TrayApp/releases/download/v1.1.0/TrayApp-v1.1.0.zip)
 
 
