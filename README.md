@@ -26,6 +26,6 @@ We ship binaries that are ready to use. You are welcomed to compile or bring the
 
 ### App Icon
 
-To set your own App icon, place your icon.png file in this directory.  
-To set your own Tray icon, convert your .ico file to base64 and replace it with old iconBase64 data in the source code.
+- To set your own App icon, place your icon.png file in this directory.  
+- To set your own Tray icon, convert your .ico file to base64 and replace it with old iconBase64 data in the source code.
 
