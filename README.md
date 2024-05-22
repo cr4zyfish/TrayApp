@@ -21,7 +21,7 @@ We ship binaries that are ready to use. You are welcomed to compile or bring the
 
 ### mieru
 
-1. Download the latest mieru windows client from https://github.com/enfein/mieru/releases.
+1. Download the latest mieru windows client from [here](https://github.com/enfein/mieru/releases).
 2. Rename the executable to `mieru.exe`.
 
 ### App Icon
