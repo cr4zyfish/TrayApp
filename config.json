@@ -28,8 +28,7 @@
     "socks5ListenLAN": false,
     "httpProxyPort": 3031,
     "httpProxyListenLAN": false,
-    
-	"advancedSettings": {
+    "advancedSettings": {
     "noCheckUpdate": true
     }
 }
