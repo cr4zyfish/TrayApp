@@ -12,7 +12,7 @@
                     "domainName": "",
                     "portBindings": [
                         {
-                            "port": 4040,
+                            "port": 80,
                             "protocol": "TCP"
                         }
                     ]
@@ -23,10 +23,10 @@
     ],
     "activeProfile": "default",
     "rpcPort": 8964,
-    "socks5Port": 3030,
+    "socks5Port": 1080,
     "loggingLevel": "INFO",
     "socks5ListenLAN": false,
-    "httpProxyPort": 3031,
+    "httpProxyPort": 1081,
     "httpProxyListenLAN": false,
     "advancedSettings": {
     "noCheckUpdate": true
